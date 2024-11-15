@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joris</h1>
-<h3 align="center">I miss time when i didn't knew how to program </3</h3>
+<h3 align="center">I miss the time when i didn't knew how to program </3 </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
