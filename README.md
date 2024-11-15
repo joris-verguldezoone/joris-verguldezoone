@@ -100,6 +100,6 @@
 
 <h4>Management</h4>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RSQ0nETuBaVZVqCw3tLht9f3mdeQaAWEjA&s" alt="jest" width="40" height="40" />
   
 </p>
