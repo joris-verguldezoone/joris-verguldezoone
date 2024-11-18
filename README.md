@@ -1,4 +1,7 @@
-![header_hello](./header.png)
+<h2>
+  Bonjour! <br/>
+  je m'appelle Joris.
+</h2>
 <h3 align="center">Actuellement formateur en développement Web, à la Plateforme à Marseille</h3>
 
 
