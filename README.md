@@ -104,8 +104,10 @@
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joris-verguldezoone)](https://git.io/streak-stats)
-
+<br/>
 ![joris-verguldezoone GitHub stats](https://github-readme-stats.vercel.app/api?username=joris-verguldezoone&theme=solarized-dark&show_icons=true)
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joris-verguldezoone)
+<br/>
 
 ![view counter](https://komarev.com/ghpvc/?username=joris-verguldezoone&color=blue)
