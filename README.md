@@ -107,4 +107,4 @@
 
 ![joris-verguldezoone GitHub stats](https://github-readme-stats.vercel.app/api?username=joris-verguldezoone&theme=solarized-dark&show_icons=true)
 
-![view counter](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![view counter](https://komarev.com/ghpvc/?username=joris-verguldezoone&color=blue)
