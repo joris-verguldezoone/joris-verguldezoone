@@ -101,5 +101,9 @@
 <h4>Management</h4>
 <p align="left">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RSQ0nETuBaVZVqCw3tLht9f3mdeQaAWEjA&s" alt="jest" width="60" height="40" />
-  
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joris-verguldezoone)](https://git.io/streak-stats)
+
+![joris-verguldezoone GitHub stats](https://github-readme-stats.vercel.app/api?username=joris-verguldezoone&theme=solarized-dark&show_icons=true)
+
